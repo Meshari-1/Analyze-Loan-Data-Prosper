@@ -1,10 +1,10 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by (Meshari Althubaiti)
 
 
 ## Dataset
 
-The data set used to conduct the explorationand analysis is "Prosper Loan Data." This data is about loans that were given by Prosper Bank. The dataset contained 81 features that give information about each loan applicant. There are 113937 applicants that have different information regarding their occupations and loan-related data. The dataset can be found in the "Dataset Options" Google Doc file provided by Udacity. [Click here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1676016322812531&usg=AOvVaw2_Ylhcerd6EPS3nsbOwob8) to view the dataset. Alos, feature documentation for the data set is available [Here](https://www.google.com/urlq=https://docs.google.com/spreadsheet/ccckey%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&source=editors&ust=1676016322813777&usg=AOvVaw2RSAOLghAyYBgttNVKmQzF)
+The data set used to conduct the explorationand analysis is "Prosper Loan Data." This data is about loans that were given by Prosper Bank. The dataset contained 81 features that give information about each loan applicant. There are 113937 applicants that have different information regarding their occupations and loan-related data. The dataset can be found in the "Dataset Options" Google Doc file provided by Udacity. [Click here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1676016322812531&usg=AOvVaw2_Ylhcerd6EPS3nsbOwob8) to view the dataset. Alos, feature documentation for the data set is available [Here](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&source=editors&ust=1676190518899903&usg=AOvVaw21WmT0nCtzdQ5QMfRF2alg)
 
 
 ## Summary of Findings
